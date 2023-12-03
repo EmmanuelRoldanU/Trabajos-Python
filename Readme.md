@@ -14,3 +14,6 @@ tarea 2
 #Busque el limitante para que solo se utilizaran numero en los cuadrantes y no  se crasheara con letras
 
 #estas semanas en el Bootcamp eh aprendido bstante y todavia falta mucho por aprender 
+
+Tarea 3
+#este trabajo fue el mas complicado que he tenido en el curso, para empzar el programa no encontra como empezar a codificar, se me complica la manera en como en empezar. tambien me di a la tarea de buscarque era la maquina de galton... fue interesante mirar que era. Pero la complicacion mas grande fue encontrar como graficarlo ya que no tenia intalada una extencion segun yo es nesesaria para visualizar el resultado... al final quede satisfecho con eltrabajo. He a prendido mucho en estas semanas con Ucamp, si me vuelven a ofrecesr por parte de la escuel otro curso, seguro lo vuelvo a tomar. Debido al trabajo huvo varias clases que no pude tomar, me disculpo con el couch Yoe y Maria por las faltas en el curso pero estube al pendiente en lo que tuve de tiempo, esperoemos trabajar juntos mas adelante.
